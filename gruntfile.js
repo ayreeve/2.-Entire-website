@@ -29,7 +29,8 @@ module.exports = function (grunt) {
                 files: ['sass/*.sass'],
                 tasks: ['sass'],
                 options: {
-                    spawn: false
+                    spawn: false,
+                    livereload: true
                 }
             }
 
