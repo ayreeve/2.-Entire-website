@@ -4,7 +4,7 @@ Website designed and created for imaginary company named Entire. Entire is calli
 
 Used:
 - HTML,
-- CSS (and then rewritten in SASS – as an exercise)
+- CSS (and then rewritten in Sass – as an exercise)
 - RWD
 - Grunt, Git
 - animal instinct
